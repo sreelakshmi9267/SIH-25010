@@ -40,7 +40,7 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-🌱 AI-Based Image Detection System for Farmers
+🌱 AI-Based Image Detection System for Farmers:
       Ariculture faces challenges like soil degradation, crop diseases, pest attacks, and unscientific fertilizer use, where traditional testing methods are slow, costly, and inaccessible. An AI-based image detection system can bridge this gap by allowing farmers to capture photos of soil or crop leaves using a smartphone. For those without smartphones, village kiosks or agriculture officers can assist in uploading images. These are analyzed by trained AI/ML models to estimate soil quality (pH, nutrients), detect diseases or pests, and integrate seasonal and weather data for more accurate, location-specific insights.
       The system then provides personalized recommendations such as the best crop choice, correct fertilizer type and dosage, and pest management measures. Results are delivered instantly in the local language via voice, SMS, or print, making them accessible to all farmers. This solution ensures quick and scientific guidance, reduces fertilizer misuse, improves yields, lowers costs, and promotes sustainable, eco-friendly farming.
     
