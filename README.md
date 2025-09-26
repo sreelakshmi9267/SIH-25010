@@ -79,4 +79,8 @@ Agriculture, FoodTech & Rural Development
     <ul><li>AI in Agriculture: Studies show that AI-based image recognition models can achieve 90%+ accuracy in detecting crop diseases (Source: Elsevier – Computers and Electronics in Agriculture).
     Soil and Fertilizer Management: According to the Food and Agriculture Organization (FAO), precision fertilizer use can reduce costs by up to 30% and increase yields by 10–20%.
     Digital Agriculture in India: Government programs like Digital India and eNAM already promote tech-driven agriculture, proving the feasibility of AI adoption at scale.
-    Case Studies: Startups like Plantix and research projects by ICAR (Indian Council of Agricultural Research) have demonstrated the success of mobile-based crop disease detection and advisory systems.</li></ul>
+    Case Studies: Startups like Plantix and research projects by ICAR (Indian Council of Agricultural Research) have demonstrated the success of mobile-based crop disease detection and advisory systems.
+    links:Plantix-https://plantix.net
+          Plantix overview(GSMA)-https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/detecting-and-managing-crop-pests-and-                diseases-with-ai-insights-from-plantix/
+          ICAR AI-DISC-https://ai.icar.gov.in/mobileapps.aspx
+          Mobile-based pest surveillance advisory in Haryana-https://ebook.icar.gov.in/index.php/IJAgS/article/view/122537</li></ul>
